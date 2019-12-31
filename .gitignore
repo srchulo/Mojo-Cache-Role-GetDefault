@@ -1,0 +1,7 @@
+/Mojo-Cache-Role-GetDefault-*
+/.build
+/_build*
+/Build
+MYMETA.*
+!META.json
+/.prove
